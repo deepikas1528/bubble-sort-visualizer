@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Bubble Sort Visualizer preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff3cc"/>
+      <stop offset="100%" stop-color="#d8efe9"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3c6e91"/>
+      <stop offset="100%" stop-color="#275779"/>
+    </linearGradient>
+    <linearGradient id="barB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#56d08f"/>
+      <stop offset="100%" stop-color="#1c8f4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="24" fill="rgba(255,255,255,0.82)" stroke="rgba(18,38,58,0.18)"/>
+  <text x="110" y="145" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#12263a">Bubble Sort Visualizer</text>
+  <text x="110" y="186" font-family="Arial, sans-serif" font-size="24" fill="#546b83">Step-by-step comparisons and swaps</text>
+
+  <g transform="translate(130 520)">
+    <rect x="0" y="-140" width="78" height="140" rx="10" fill="url(#barA)"/>
+    <rect x="90" y="-220" width="78" height="220" rx="10" fill="url(#barA)"/>
+    <rect x="180" y="-100" width="78" height="100" rx="10" fill="url(#barA)"/>
+    <rect x="270" y="-280" width="78" height="280" rx="10" fill="#f37f2f"/>
+    <rect x="360" y="-170" width="78" height="170" rx="10" fill="#f37f2f"/>
+    <rect x="450" y="-320" width="78" height="320" rx="10" fill="url(#barB)"/>
+    <rect x="540" y="-250" width="78" height="250" rx="10" fill="url(#barB)"/>
+    <rect x="630" y="-350" width="78" height="350" rx="10" fill="url(#barB)"/>
+    <rect x="720" y="-390" width="78" height="390" rx="10" fill="url(#barB)"/>
+  </g>
+</svg>
