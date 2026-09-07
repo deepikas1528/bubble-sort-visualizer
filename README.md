@@ -40,7 +40,6 @@ bubble-sort-visualizer/
 │   └── preview.svg
 ├── README.md
 ├── project-summary.md
-├── LICENSE
 └── .gitignore
 ```
 
@@ -114,10 +113,6 @@ No dependencies or build tools are required.
 ## Suggested GitHub Topics
 
 sorting-algorithm, bubble-sort, algorithm-visualizer, javascript, html-css-js, dsa
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 
